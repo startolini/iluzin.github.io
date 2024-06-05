@@ -8,7 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Текст писать тут
+          Хочу стать джуном фронтендером.
+          Работаю QA в Tradingview.
         </p>
       </header>
     </div>
